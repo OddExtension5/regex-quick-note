@@ -4,6 +4,14 @@ Unlock the power of text processing using grep, JavaScript, and Python
 # Introduction
 Regular expressions are patterns that are used to find text, which can then be manipulated programmatically. They’ve been around for decades, and nearly every programming language makes use of them since they’re so handy for searching and manipulating text. For example, say you need to find and replace a specific text string across thousands of files or search a single file for that one specific string, but you can't remember if it was written in uppercase or lowercase (or both). “Regex” gives you the flexibility and power to do these kinds of complex, nuanced search-and-replaces. But regex has a reputation for being hard to learn.
 
+# 30 Days of Regex
+
+It's my initiative for myself to carry on with my new learning regex and make myself more familiar and strong in regular expression.
+
+Per day one problem in regex.
+
+All the best to me!
+
 # Course Schedule
 
 + Introduction to regular expressions and grep/egrep (20 minutes)
