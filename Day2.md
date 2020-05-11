@@ -8,19 +8,19 @@ These characters have the hexadecimal ASCII codes 07, 1B, oC, oA, oD, o9, oB
 
 **``\a\e\f\n\r\t\v``**
 
-OR
+**OR**
 
 **``\x07\x1B\f\n\r\t\v``**
 
-OR
+**OR**
 
-**``\a\e\f\n\r\t\x0B``*
+**``\a\e\f\n\r\t\x0B``**
 
-OR
+**OR**
 
 **``\cG\x1B\cL\cJ\cM\cI\cK``**
 
-OR
+**OR**
 
 **``\x07\x1B\x0C\x0A\x0D\x09\x0B``**
 
