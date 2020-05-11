@@ -11,27 +11,27 @@ Create a third regex to match a single character that is not a hexadecimal chara
 
 + **CALENDAR WITH MISSPELLINGS**
 
-``c[ae]l[ae]nd[ae]r``
+    ``c[ae]l[ae]nd[ae]r``
 
 + **HEXADECIMAL CHARACTER**
 
-``[a-fA-F0-9]``
+    ``[a-fA-F0-9]``
 
-**OR**
+    **OR**
 
-``[a-fA-F\d]``
+    ``[a-fA-F\d]``
 
-**OR**
+    **OR**
 
-``(?i)[A-F\d]``
+    ``(?i)[A-F\d]``
 
 + **NONHEXADECIMAL CHARACTER**
 
-``[^a-fA-F0-9]``
+    ``[^a-fA-F0-9]``
 
-**OR**
+    **OR**
 
-``(?i)[^A-F\d]``
+    ``(?i)[^A-F\d]``
 
 
 # Information
